@@ -15,7 +15,8 @@ Introducing **Polecat** - your ultimate pocket-sized wildlife explorer! Discover
 - 👧 **Kid-Safe:** Polecat does not require registration and does not collect any user data. Polecat will ask permission to use your location in order to find local wildlife, but your location data is not stored on any server.
 
 **Privacy policy**
-For the privacy policy, go to [privacy policy page](privacy.md)
+
+For the privacy policy, go to [policy page](policy.md)
 
 **Contact details**
 
