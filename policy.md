@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Policy
-permalink: /policy/
+layout: template
+filename: policy.md
 ---
 
-#Privacy Policy
+Privacy Policy
 
 Effective Date: y 2023/ m 07/ d 11
 
