@@ -20,5 +20,5 @@ For the privacy policy, go to [policy page](policy.md)
 
 **Contact details**
 
-For enquiries, please contact us at: wilddevs.contact@gmail.com
+For inquiries, please contact us at: wilddevs.contact@gmail.com
 
