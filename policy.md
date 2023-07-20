@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Policy"
-permalink: /policy/
+permalink: /polecat-app.github.io/policy/
 ---
 
 #Privacy Policy
