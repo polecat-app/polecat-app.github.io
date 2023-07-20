@@ -1,6 +1,6 @@
 ---
 title: Policy
-layout: page
+layout: default
 permalink: /policy/
 ---
 
